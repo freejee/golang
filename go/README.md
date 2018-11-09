@@ -1,20 +1,17 @@
-# The Go Programming Language
+# Go编程语言
 
-Go is an open source programming language that makes it easy to build simple,
-reliable, and efficient software.
+Go是一个开源编程语言，它使得构建简单、可靠和高效的软件变得更容易。
 
-![Gopher image](doc/gopher/fiveyears.jpg)
-*Gopher image by [Renee French][rf], licensed under [Creative Commons 3.0 Attributions license][cc3-by].*
+![地鼠图片](doc/gopher/fiveyears.jpg)
+*地鼠图片由[Renee French][rf]制作，在[知识共享3.0归属协议][cc3-by]下授权许可。*
 
-Our canonical Git repository is located at https://go.googlesource.com/go.
-There is a mirror of the repository at https://github.com/golang/go.
+我们的权威Git仓库位于https://go.googlesource.com/go。还有个镜像仓库位于https://github.com/golang/go。
 
-Unless otherwise noted, the Go source files are distributed under the
-BSD-style license found in the LICENSE file.
+除非另有说明，Go的源文件是在BSD类型的协议下分发的，LICENSE文件中可以找到BSD类型的协议。
 
-### Download and Install
+### 下载和安装
 
-#### Binary Distributions
+#### 二进制发行版
 
 Official binary distributions are available at https://golang.org/dl/.
 
@@ -22,16 +19,16 @@ After downloading a binary release, visit https://golang.org/doc/install
 or load [doc/install.html](./doc/install.html) in your web browser for installation
 instructions.
 
-#### Install From Source
+#### 从源代码安装
 
 If a binary distribution is not available for your combination of
 operating system and architecture, visit
 https://golang.org/doc/install/source or load [doc/install-source.html](./doc/install-source.html)
 in your web browser for source installation instructions.
 
-### Contributing
+### 贡献
 
-Go is the work of thousands of contributors. We appreciate your help!
+Go是成千上万个贡献者的杰作，我们感谢您的帮助。
 
 To contribute, please read the contribution guidelines:
 	https://golang.org/doc/contribute.html
