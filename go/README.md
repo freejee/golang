@@ -27,7 +27,7 @@ Go是成千上万个参与者的杰作，我们感谢您的帮助。
 
 如想参与，请阅读参与指南：https://golang.org/doc/contribute.html
 
-请注意，Go项目中的问题跟踪器（Issue Tracker）只使用于报告Bug和建议。有关Go语言的提问地点列表，请参阅https://golang.org/wiki/Questions 。
+请注意，Go项目中的问题跟踪器（Issue Tracker）只用于报告Bug和建议。有关Go语言的提问地点列表，请参阅https://golang.org/wiki/Questions 。
 
 [rf]: https://reneefrench.blogspot.com/
 [cc3-by]: https://creativecommons.org/licenses/by/3.0/
