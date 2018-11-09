@@ -21,16 +21,13 @@ Go是一个开源编程语言，它使得构建简单、可靠和高效的软件
 
 如果二进制发行版不适用于你的操作系统和体系结构，访问https://golang.org/doc/install/source 或者在浏览器中加载[doc/install-source.html](./doc/install-source.html)，查看源代码安装说明。
 
-### 贡献
+### 参与
 
-Go是成千上万个贡献者的杰作，我们感谢您的帮助。
+Go是成千上万个参与者的杰作，我们感谢您的帮助。
 
-To contribute, please read the contribution guidelines:
-	https://golang.org/doc/contribute.html
+如想参与，请阅读参与指南：https://golang.org/doc/contribute.html
 
-Note that the Go project uses the issue tracker for bug reports and
-proposals only. See https://golang.org/wiki/Questions for a list of
-places to ask questions about the Go language.
+请注意，Go项目中的问题跟踪器（Issue Tracker）只使用于报告Bug和建议。有关Go语言的提问地点列表，请参阅https://golang.org/wiki/Questions 。
 
 [rf]: https://reneefrench.blogspot.com/
 [cc3-by]: https://creativecommons.org/licenses/by/3.0/
