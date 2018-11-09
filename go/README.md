@@ -5,7 +5,7 @@ Go是一个开源编程语言，它使得构建简单、可靠和高效的软件
 ![地鼠图片](doc/gopher/fiveyears.jpg)
 *地鼠图片由[Renee French][rf]制作，在[知识共享3.0归属协议][cc3-by]下授权许可。*
 
-我们的权威Git仓库位于https://go.googlesource.com/go。还有个镜像仓库位于https://github.com/golang/go。
+我们的权威Git仓库位于https://go.googlesource.com/go ，还有个镜像仓库位于https://github.com/golang/go 。
 
 除非另有说明，Go的源文件是在BSD类型的协议下分发的，LICENSE文件中可以找到BSD类型的协议。
 
@@ -13,18 +13,13 @@ Go是一个开源编程语言，它使得构建简单、可靠和高效的软件
 
 #### 二进制发行版
 
-Official binary distributions are available at https://golang.org/dl/.
+官方的二进制发行版可以在https://golang.org/dl/ 上获取。
 
-After downloading a binary release, visit https://golang.org/doc/install
-or load [doc/install.html](./doc/install.html) in your web browser for installation
-instructions.
+下载二进制版本之后，访问https://golang.org/doc/install 或者在浏览器中加载[doc/install.html](./doc/install.html)，查看安装说明。
 
 #### 从源代码安装
 
-If a binary distribution is not available for your combination of
-operating system and architecture, visit
-https://golang.org/doc/install/source or load [doc/install-source.html](./doc/install-source.html)
-in your web browser for source installation instructions.
+如果二进制发行版不适用于你的操作系统和体系结构，访问https://golang.org/doc/install/source 或者在浏览器中加载[doc/install-source.html](./doc/install-source.html)，查看源代码安装说明。
 
 ### 贡献
 
