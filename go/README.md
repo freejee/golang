@@ -7,7 +7,7 @@ Go是一个开源编程语言，它使得构建简单、可靠和高效的软件
 
 我们的权威Git仓库位于https://go.googlesource.com/go ，还有个镜像仓库位于https://github.com/golang/go 。
 
-除非另有说明，Go的源文件是在BSD类型的协议下分发的，LICENSE文件中可以找到BSD类型的协议。
+除非另有说明，Go的源文件是在类BSD的协议下分发的，LICENSE文件中可以找到类BSD的协议。
 
 ### 下载和安装
 
